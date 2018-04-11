@@ -141,7 +141,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [Hana Klingova's solution](https://github.com/hanny21/rock_paper_scissors) - [View in browser](https://hanny21.github.io/rock_paper_scissors/)
 - [Punnadittr's solution](https://github.com/punnadittr/rockpaperscissors) - [View in browser](https://punnadittr.github.io/rockpaperscissors/)
 - [Vlado's solution](https://github.com/Vlado212/Papir_skare_kamen)
-- [Faris Ibrahim's solution](https://github.com/procusr/rock-paper-scissors)
+- [Faris Ibrahim's solution](https://github.com/procusr/rock-paper-scissors) -[View in Browser](https://procusr.github.io/rock-paper-scissors)
 - [Jarred Herrington's Console Solution](https://github.com/Herringtonjc/rock-paper-scissors) - [View in Browser](https://herringtonjc.github.io/rock-paper-scissors/)
 - [Jarred Herrington's UI Solution](https://github.com/Herringtonjc/rock-paper-scissors-ui) - [View in Browser](https://herringtonjc.github.io/rock-paper-scissors-ui/)
 - [mojotron's Solution](https://github.com/mojotron/rock-paper-scissors) - [View in Browser](https://mojotron.github.io/rock-paper-scissors/)
